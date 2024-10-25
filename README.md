@@ -22,6 +22,7 @@ I'm an independent creative developer from Montenegro, dedicated to crafting imp
 
 - [Website](https://www.spasoje.dev/)
 - [Awwwards](https://www.awwwards.com/spasoje/)
+- [LinkedIn](https://www.linkedin.com/in/spasoje-perovic-666590212)
 - [Instagram](https://www.instagram.com/spasoje.perovic)
 
 ## 💻 Tech Stack:
