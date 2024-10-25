@@ -32,3 +32,9 @@
 
 I'm an independent creative developer from Montenegro, dedicated to crafting impactful digital experiences for global brands & individuals. Let's team up!
 
+#
+
+### 📊 Stats
+
+![Spasoje's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpasojeFR&show_icons=true&theme=gruvbox)
+
