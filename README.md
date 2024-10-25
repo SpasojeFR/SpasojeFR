@@ -1,4 +1,8 @@
-### Hi, I'm Spasoje 
+# Spasoje Perovic
 
-an independent creative developer from Montenegro, dedicated to crafting impactful digital experiences for global brands & individuals. Let's team up!
+#
+
+**`Creative Developer`**
+
+I'm an independent creative developer from Montenegro, dedicated to crafting impactful digital experiences for global brands & individuals. Let's team up!
 
