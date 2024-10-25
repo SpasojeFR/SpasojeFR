@@ -1,20 +1,30 @@
 # Spasoje Perovic
 
-<svg width="42" height="60" viewBox="0 0 42 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect y="9" width="6" height="6" rx="3" fill="#FFFFFF"/>
-  <rect x="36" y="9" width="6" height="6" rx="3" fill="#FFFFFF"/>
-  <rect y="18" width="6" height="6" rx="3" fill="#FFFFFF"/>
-  <rect y="27" width="6" height="6" rx="3" fill="#FFFFFF"/>
-  <rect x="9" y="54" width="6" height="6" rx="3" fill="#FFFFFF"/>
-  <rect x="18" y="54" width="6" height="6" rx="3" fill="#FFFFFF"/>
-  <rect y="36" width="6" height="6" rx="3" fill="#FFFFFF"/>
-  <rect y="45" width="6" height="6" rx="3" fill="#FFFFFF"/>
-  <rect x="9" width="6" height="6" rx="3" fill="#FFFFFF"/>
-  <rect x="18" width="6" height="6" rx="3" fill="#FFFFFF"/>
-  <rect x="27" width="6" height="6" rx="3" fill="#FFFFFF"/>
-  <rect x="27" y="54" width="6" height="6" rx="3" fill="#FFFFFF"/>
-  <rect x="36" y="45" width="6" height="6" rx="3" fill="#FFFFFF"/>
-</svg>
+<img align="left" alt="Slash" width="32px" style="padding-right:2px;" src="./letters/SLASH.png"/>
+
+<img align="left" alt="C" width="32px" style="padding-right:2px;" src="./letters/C.png"/>
+
+<img align="left" alt="R" width="32px" style="padding-right:2px;" src="./letters/R.png"/>
+
+<img align="left" alt="E" width="32px" style="padding-right:2px;" src="./letters/E.png"/>
+
+<img align="left" alt="A" width="32px" style="padding-right:2px;" src="./letters/A.png"/>
+
+<img align="left" alt="T" width="32px" style="padding-right:2px;" src="./letters/T.png"/>
+
+<img align="left" alt="I" width="32px" style="padding-right:2px;" src="./letters/I.png"/>
+
+<img align="left" alt="V" width="32px" style="padding-right:2px;" src="./letters/V.png"/>
+
+<img align="left" alt="E" width="32px" style="padding-right:2px;" src="./letters/E.png"/>
+
+<img align="left" alt="Hyphen" width="32px" style="padding-right:2px;" src="./letters/HYPHEN.png"/>
+
+<img align="left" alt="D" width="32px" style="padding-right:2px;" src="./letters/D.png"/>
+
+<img align="left" alt="E" width="32px" style="padding-right:2px;" src="./letters/E.png"/>
+
+<img align="left" alt="V" width="32px" style="padding-right:2px;" src="./letters/V.png"/>
 
 
 **`Creative Developer`**
